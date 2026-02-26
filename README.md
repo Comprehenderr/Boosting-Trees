@@ -1,4 +1,4 @@
-# Project: Boosting Trees
+# Boosting Trees
 
 ---
 
@@ -284,6 +284,7 @@ Together these layers of testing give high confidence that bugs in tree building
 While some of these fixes are incremental engineering tasks (feature subsampling, weighted gradients), others (true online boosting, multi‑class softmax) would require non‑trivial extensions to the current codebase.
 
 ---
+
 
 
 
